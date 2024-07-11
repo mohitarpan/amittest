@@ -4,5 +4,7 @@ int main() {
     int a,b;
     cin>>a>>b;
     cout<<a+b<<endl;
+
+    cout<<"fuck you madharchod"<<endl;
     return 0;
 }
